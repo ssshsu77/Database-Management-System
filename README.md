@@ -1,0 +1,1 @@
+This assignment focuses on formulating "complex" OLAP queries using SQL. The primary objective is to illustrate the inherent complexity involved in expressing such queries, which, although based on straightforward concepts, can become intricate in SQL syntax.
